@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**izeah/izeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+I am a FullStack Developer, have skilled on BackEnd and a little bit experience about FrontEnd. 
+Get used to use Golang and ExpressJS as my BackEnd language. Until now I always concern about 
+Design Pattern like SOLID Principle, Clean Architecture, DRY, and many more.
+very welcome with many new things about IT, my motivation to become the expertist at Software Engineering.
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as a Software Engineer
+- 🌱 I’m currently learning Design Pattern, Payment Gateway and TypeScript
+- 💬 Ask me about anything and we can sharing knowledge each other
+- 📫 How to reach me: [Linkedin](https://linkedin.com/in/izeah01)
+- 😄 Pronouns: Faiz
+- ⚡ Fun fact: Cheerful coding
