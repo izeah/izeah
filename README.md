@@ -8,8 +8,8 @@ very welcome with many new things about IT, my motivation to become the expertis
 ```
 
 - 🔭 I’m currently working as a Software Engineer
-- 🌱 I’m currently learning Design Pattern, Payment Gateway and TypeScript
+- 🌱 I’m currently learning Design Pattern, TypeScript, and another something new
 - 💬 Ask me about anything and we can sharing knowledge each other
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/izeah01)
 - 😄 Pronouns: Faiz
-- ⚡ Fun fact: Cheerful coding
+- ⚡ Fun fact: Cheerful coder
